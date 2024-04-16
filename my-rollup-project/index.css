@@ -1,0 +1,20 @@
+
+
+
+#svg_image :hover{
+    fill:aliceblue;
+}
+
+
+
+text {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+  font-size: 65px;
+}
+
+body :hover{
+    color:green;
+}
